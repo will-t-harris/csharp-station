@@ -1,0 +1,11 @@
+/home/will/Documents/code/C#-tuts/csharp-station/3/bin/Debug/netcoreapp3.0/3
+/home/will/Documents/code/C#-tuts/csharp-station/3/bin/Debug/netcoreapp3.0/3.deps.json
+/home/will/Documents/code/C#-tuts/csharp-station/3/bin/Debug/netcoreapp3.0/3.runtimeconfig.json
+/home/will/Documents/code/C#-tuts/csharp-station/3/bin/Debug/netcoreapp3.0/3.runtimeconfig.dev.json
+/home/will/Documents/code/C#-tuts/csharp-station/3/bin/Debug/netcoreapp3.0/3.dll
+/home/will/Documents/code/C#-tuts/csharp-station/3/bin/Debug/netcoreapp3.0/3.pdb
+/home/will/Documents/code/C#-tuts/csharp-station/3/obj/Debug/netcoreapp3.0/3.csprojAssemblyReference.cache
+/home/will/Documents/code/C#-tuts/csharp-station/3/obj/Debug/netcoreapp3.0/3.AssemblyInfoInputs.cache
+/home/will/Documents/code/C#-tuts/csharp-station/3/obj/Debug/netcoreapp3.0/3.AssemblyInfo.cs
+/home/will/Documents/code/C#-tuts/csharp-station/3/obj/Debug/netcoreapp3.0/3.dll
+/home/will/Documents/code/C#-tuts/csharp-station/3/obj/Debug/netcoreapp3.0/3.pdb
