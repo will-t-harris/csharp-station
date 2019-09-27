@@ -39,11 +39,11 @@ class Unary
         Console.WriteLine("Negative: {0}", negative); // writes -1 to console
 
         bitNot = 0;
-        bitNot = (sbyte)(~bitNot);
+        bitNot = (sbyte)(~bitNot); //! this is an example of the 'cast operator' which explicitly casts the value in bitNot to sbyte data type
         Console.WriteLine("Bitwise Not: {0}", bitNot); // writes -1 to console
 
         logNot = false;
-        logNot = !logNot;
+        logNot = !logNot; //! logical not flips boolean to opposite value
         Console.WriteLine("Logical Not: {0}", logNot); // writes True to console
     }
 }
