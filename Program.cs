@@ -1,10 +1,15 @@
-﻿using System;
+﻿// Namespace
+using System;
 
-class NamedWelcome
+// Program start class
+class InteractiveWelcome
 {
-    static void Main(string[] args)
+    // Main begins program execution
+    public static void Main()
     {
-        Console.WriteLine("Hello, {0}!", args[0]);
+        // Write to console/get input
+        Console.Write("What is your name?: ");
+        Console.Write("Hello, {0}! ", Console.ReadLine());
         Console.WriteLine("Welcome to the C# Station Tutorial!");
     }
 }
