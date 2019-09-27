@@ -24,5 +24,12 @@ class Array
         myStrings[2] = "Robert";
 
         Console.WriteLine("myStrings[0]: {0}, myStrings[1]: {1}, myStrings[2]: {2}", myStrings[0], myStrings[1], myStrings[2]);
+
+        myDoubles[0, 0] = 3.147;
+        myDoubles[0, 1] = 7.157;
+        myDoubles[1, 1] = 2.117;
+        myDoubles[1, 0] = 56.00138917;
+
+        Console.WriteLine("myDoubles[0, 0]: {0}, myDoubles[1, 0]: {1}", myDoubles[0, 0], myDoubles[1, 0]);
     }
 }
