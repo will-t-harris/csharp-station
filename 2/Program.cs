@@ -18,5 +18,11 @@ class Array
         myBools[1][0] = true;
 
         Console.WriteLine("myBools[0][0]: {0}, myBools[1][0]: {1}", myBools[0][0], myBools[1][0]);
+
+        myStrings[0] = "Joe";
+        myStrings[1] = "Matt";
+        myStrings[2] = "Robert";
+
+        Console.WriteLine("myStrings[0]: {0}, myStrings[1]: {1}, myStrings[2]: {2}", myStrings[0], myStrings[1], myStrings[2]);
     }
 }
