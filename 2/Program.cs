@@ -30,9 +30,11 @@ class Unary
 
         Console.WriteLine("Final value of Unary: {0}", unary); // writes 0 to console
 
+        //! minus operator flips the sign
         positive = -postIncrement;
         Console.WriteLine("Positive: {0}", positive); // writes 1 to console
 
+        //! plus operator does nothing to the sign
         negative = +postIncrement;
         Console.WriteLine("Negative: {0}", negative); // writes -1 to console
 
