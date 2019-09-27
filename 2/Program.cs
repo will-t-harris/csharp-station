@@ -14,12 +14,14 @@ class Unary
         sbyte bitNot;
         bool logNot;
 
+        //! These two perform the operation and THEN return the value
         preIncrement = ++unary;
         Console.WriteLine("pre-Increment: {0}", preIncrement); // writes 1 to console
 
         preDecrement = --unary;
         Console.WriteLine("pre-Decrement: {0}", preDecrement); // writes 0 to console
 
+        //! These two return the value first and THEN perform the operation
         postDecrement = unary--;
         Console.WriteLine("Post-Decrement: {0}", postDecrement); // writes 0 to console
 
