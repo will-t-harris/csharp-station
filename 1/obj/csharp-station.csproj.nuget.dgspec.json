@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/will/Documents/code/C#-tuts/csharp-station/csharp-station.csproj": {}
+    "/home/will/Documents/code/C#-tuts/csharp-station/1/csharp-station.csproj": {}
   },
   "projects": {
-    "/home/will/Documents/code/C#-tuts/csharp-station/csharp-station.csproj": {
+    "/home/will/Documents/code/C#-tuts/csharp-station/1/csharp-station.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/will/Documents/code/C#-tuts/csharp-station/csharp-station.csproj",
+        "projectUniqueName": "/home/will/Documents/code/C#-tuts/csharp-station/1/csharp-station.csproj",
         "projectName": "csharp-station",
-        "projectPath": "/home/will/Documents/code/C#-tuts/csharp-station/csharp-station.csproj",
+        "projectPath": "/home/will/Documents/code/C#-tuts/csharp-station/1/csharp-station.csproj",
         "packagesPath": "/home/will/.nuget/packages/",
-        "outputPath": "/home/will/Documents/code/C#-tuts/csharp-station/obj/",
+        "outputPath": "/home/will/Documents/code/C#-tuts/csharp-station/1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/will/.nuget/NuGet/NuGet.Config"

@@ -9,7 +9,8 @@ class InteractiveWelcome
     {
         // Write to console/get input
         Console.Write("What is your name?: ");
-        Console.Write("Hello, {0}! ", Console.ReadLine());
+        string name = Console.ReadLine();
+        Console.Write("Hello, {0}! ", name);
         Console.WriteLine("Welcome to the C# Station Tutorial!");
     }
 }

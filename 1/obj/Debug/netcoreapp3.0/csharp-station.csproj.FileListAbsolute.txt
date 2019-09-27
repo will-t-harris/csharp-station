@@ -9,3 +9,14 @@
 /home/will/Documents/code/C#-tuts/csharp-station/obj/Debug/netcoreapp3.0/csharp-station.AssemblyInfo.cs
 /home/will/Documents/code/C#-tuts/csharp-station/obj/Debug/netcoreapp3.0/csharp-station.dll
 /home/will/Documents/code/C#-tuts/csharp-station/obj/Debug/netcoreapp3.0/csharp-station.pdb
+/home/will/Documents/code/C#-tuts/csharp-station/1/bin/Debug/netcoreapp3.0/csharp-station
+/home/will/Documents/code/C#-tuts/csharp-station/1/bin/Debug/netcoreapp3.0/csharp-station.deps.json
+/home/will/Documents/code/C#-tuts/csharp-station/1/bin/Debug/netcoreapp3.0/csharp-station.runtimeconfig.json
+/home/will/Documents/code/C#-tuts/csharp-station/1/bin/Debug/netcoreapp3.0/csharp-station.runtimeconfig.dev.json
+/home/will/Documents/code/C#-tuts/csharp-station/1/bin/Debug/netcoreapp3.0/csharp-station.dll
+/home/will/Documents/code/C#-tuts/csharp-station/1/bin/Debug/netcoreapp3.0/csharp-station.pdb
+/home/will/Documents/code/C#-tuts/csharp-station/1/obj/Debug/netcoreapp3.0/csharp-station.csprojAssemblyReference.cache
+/home/will/Documents/code/C#-tuts/csharp-station/1/obj/Debug/netcoreapp3.0/csharp-station.AssemblyInfoInputs.cache
+/home/will/Documents/code/C#-tuts/csharp-station/1/obj/Debug/netcoreapp3.0/csharp-station.AssemblyInfo.cs
+/home/will/Documents/code/C#-tuts/csharp-station/1/obj/Debug/netcoreapp3.0/csharp-station.dll
+/home/will/Documents/code/C#-tuts/csharp-station/1/obj/Debug/netcoreapp3.0/csharp-station.pdb
