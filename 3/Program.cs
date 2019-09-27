@@ -16,5 +16,9 @@ class IfSelect
         {
             Console.WriteLine("Your number {0} is greater than zero.", myInt);
         }
+
+        // Single decision and action without brackets
+        if (myInt < 0)
+            Console.WriteLine("Your number {0} is less than zero.", myInt);
     }
 }
