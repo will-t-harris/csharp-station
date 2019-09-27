@@ -12,5 +12,11 @@ class Array
         string[] myStrings = new string[3];
 
         Console.WriteLine("myInts[0]: {0}, myInts[1]: {1}, myInts[2]: {2}", myInts[0], myInts[1], myInts[2]);
+
+        myBools[0][0] = true;
+        myBools[0][1] = false;
+        myBools[1][0] = true;
+
+        Console.WriteLine("myBools[0][0]: {0}, myBools[1][0]: {1}", myBools[0][0], myBools[1][0]);
     }
 }
